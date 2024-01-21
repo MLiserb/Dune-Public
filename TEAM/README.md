@@ -14,23 +14,31 @@
 
 
 # Sixdegree
+
 | Name                                                | Queries | Dashboards | Stars | Contracts | Team members          |
 | ---                                                 | ---     | ---        | ---   | ---       | ---                   |
 | [Sixdegree](https://dune.com/sixdegree)             |  1,289  |     94     | 5,566 |           | 7 people              |
 
 | Name                                                | Queries | Dashboards | Stars | Contracts | Wizard since          |
 | ---                                                 | ---     | ---        | ---   | ---       | ---                   |
-| []()               |       |            |     |           |  |
-| []()               |       |            |     |           |  |
-| []()               |       |            |     |           |  |
-| []()               |       |            |     |           |  |
-
+| [0xBitFly](https://dune.com/0xBitFly)               | 266 |  16  | 66  | 38  | Wizard since Nov 2021  |
+| []()               |  |  |  |   |  |
+| []()               |  |  |  |   |  |
+| []()               |  |  |  |   |  |
+| []()               |  |  |  |   |  |
+| []()               |  |  |  |   |  |
+| []()               |  |  |  |   |  |
 
 
 
 
 ---
 # 
+
+| Name                                                | Queries | Dashboards | Stars | Contracts | Team members   |
+| ---                                                 | ---     | ---        | ---   | ---       | ---            |
+| []()                                                |         |            |       |           |  people        |
+
 
 | Name                                            | Queries | Dashboards | Stars | Contracts | Wizard since          |
 | ---                                             | ---     | ---        | ---   | ---       | ---                   |
