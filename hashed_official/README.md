@@ -5,7 +5,9 @@
 dune.hashed_official.result_wallet_router
 
 ---
-Team at **Hashed**:
+### Team at **Hashed**:
+
+- 5 people but should say 5 accounts
 
 | Name                                      | queries | dashboards | stars |
 | ---                                       | ---     | ---        | ---   |
