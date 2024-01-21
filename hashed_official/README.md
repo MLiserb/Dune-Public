@@ -7,7 +7,7 @@
 ---
 ### Team at **Hashed**:
 
-- - 5 people
+- 5 people
 
 | Name                                            | Queries | Dashboards | Stars | Contracts | Wizard since          |
 | ---                                             | ---     | ---        | ---   | ---       | ---                   |
