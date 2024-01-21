@@ -4,8 +4,6 @@
 
 <br>[Hashed Terminal](https://dune.com/hashed_official/hashed-terminal)
 
-dune.hashed_official.result_wallet_router
-
 ---
 ### Team at **Hashed**:
 
@@ -20,3 +18,6 @@ dune.hashed_official.result_wallet_router
 | []()                                      |         |            |       |
 
 ---
+Some stuff related to: 
+
+dune.hashed_official.result_wallet_router
