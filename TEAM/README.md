@@ -14,9 +14,12 @@
 
 
 # Sixdegree
+| Name                                                | Queries | Dashboards | Stars | Contracts | Team members          |
+| ---                                                 | ---     | ---        | ---   | ---       | ---                   |
+| [Sixdegree](https://dune.com/sixdegree)             |  1,289  |     94     | 5,566 |           | 7 people              |
 
-| Name                                            | Queries | Dashboards | Stars | Contracts | Wizard since          |
-| ---                                             | ---     | ---        | ---   | ---       | ---                   |
+| Name                                                | Queries | Dashboards | Stars | Contracts | Wizard since          |
+| ---                                                 | ---     | ---        | ---   | ---       | ---                   |
 | []()               |       |            |     |           |  |
 | []()               |       |            |     |           |  |
 | []()               |       |            |     |           |  |
