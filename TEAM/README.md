@@ -21,7 +21,7 @@
 
 | Name                                                | Queries | Dashboards | Stars  | Contracts | Wizard since          | Team member of |
 | ---                                                 | ---     | ---        | ---    | ---       | ---                   | ---            |
-| [0xBitFly](https://dune.com/0xBitFly)               | 266     |  16        | 66     | 38        | Wizard since Nov 2021 | [](), [](), [](), []() |
+| [0xBitFly](https://dune.com/0xBitFly)               | 266     |  16        | 66     | 38        | Wizard since Nov 2021 | [bitgo](https://dune.com/bitgo), [lavo](https://dune.com/lavo), [skycatcher](https://dune.com/skycatcher), [sixdegree](https://dune.com/sixdegree) |
 | [springzhang](https://dune.com/springzhang)         | 1,306   |  57        | 13,400 | 151       | Wizard since May 2022 | [ycc](https://dune.com/ycc), [codingtalent](https://dune.com/codingtalent), [sixdegree](https://dune.com/sixdegree) |
 | []()               |  |  |  |   |  | |
 | []()               |  |  |  |   |  | |
